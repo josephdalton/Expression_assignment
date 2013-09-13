@@ -8,5 +8,7 @@ var total = (minutes[0] / minutes[1]) * minutes[2]; //this expression is the amo
 
 var text = "the amount of calls I take per work day"
 
+var answer = String(total) + " " + String(text);
+
 console.log(total); //the total of the express is listed here in the log 
 
