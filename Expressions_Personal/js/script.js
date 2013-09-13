@@ -1,4 +1,4 @@
-//Personal Expression
+//Cherrell Stroud 9/14/2013 Personal Expression
 //How much laundry detergent is left after washing a weeks worth of clothes?
 
 //Givens
@@ -12,6 +12,6 @@ d -= (l * u); // the amount of washed loads is multiplied by the amount it takes
 
 var answer = String(d) + " " +String(metric)// code written so that the string will appear the correct way in the log
 
-console.log(answer)//the answer to the question will be in the log
+console.log(answer)//the answer to the question will be in the log including the wording after to help clarify the answer. 
 
 
