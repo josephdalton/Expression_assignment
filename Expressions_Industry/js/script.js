@@ -4,9 +4,9 @@
 
 var minutes = [20,60, 8,] // first number is the average handle time of each call, second is the amount of minutes in an hour, third is the amount of hours worked per shift.
 
-var total = (minutes[0] / minutes[1]) * minutes[2]; //this expression is the amount of minutes in an hour are divided by 20 to find out how many calls an hour. That total is multiplied by 8 for the amount of hours in a shift.  
+var total = (minutes[1] / minutes[0]) * minutes[2]; //this expression is the amount of minutes in an hour are divided by 20 to find out how many calls an hour. That total is multiplied by 8 for the amount of hours in a shift.  
 
-var text = "the amount of calls I take per work day"
+var text = "the amount of calls I take per work day" // text that will ready after the answer. 
 
 var answer = String(total) + " " + String(text);
 
