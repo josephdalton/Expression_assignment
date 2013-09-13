@@ -9,6 +9,6 @@ var week = 7;
 var month = 12;
 
 
-var year = cpu * week * month
+cpu *= 7 * 12
 
 console.log(year)
