@@ -10,5 +10,5 @@ var remainingDetergent; // the amount of detergent remaining after the week is o
 
 //the clothes loaded mulitplied by the amount of fluid ounces it will take per load will give us the total amount of detergent needed. Then the answer is then subtracted by the full amount of detergent. 
 
-var amountRemaining = (perLoad * clothesLoads) - startingDetergent;
+var amountRemaining = clothesLoads + perLoad
 console.log(amountRemaining)
