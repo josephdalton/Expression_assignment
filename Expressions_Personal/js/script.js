@@ -10,6 +10,6 @@ var text = "fluid ounces remaining after washing clothes for one week "// the di
 
 d -= (l * u); // the amount of washed loads is multiplied by the amount of detergent required per load. The amount is subtracted from the full container. 
 
-var answer = String(d) + " " +String(text)// code written so that the string will appear the correct way in the log
+var answer = String(d) + " " +String(text);// code written so that the string will appear the correct way in the log
 
-console.log(answer)//the answer to the question will be in the log including the wording after to help clarify the answer. 
+console.log(answer);//the answer to the question will be in the log including the wording after to help clarify the answer. 
