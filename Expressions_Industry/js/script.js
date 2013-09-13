@@ -10,5 +10,5 @@ var text = "the amount of calls I take per work day"
 
 var answer = String(total) + " " + String(text);
 
-console.log(total); //the total of the express is listed here in the log 
+console.log(answer); //the total of the express is listed here in the log 
 
