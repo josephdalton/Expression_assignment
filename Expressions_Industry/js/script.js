@@ -6,3 +6,5 @@ var minutes = [20,60, 480,] // first number is the average handle time of each c
 
 var total = (minutes[60] / minutes[20]) * 480;
 
+console.log(total);
+
