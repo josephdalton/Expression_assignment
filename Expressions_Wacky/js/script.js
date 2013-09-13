@@ -10,3 +10,5 @@ var month = 12;
 
 
 var year = cpu * week * month
+
+console.log(year)
