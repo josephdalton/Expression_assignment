@@ -5,6 +5,8 @@
 //Given 
 
 var cpu = 10;
-var day= 24;
-var week= 7;
-var month= 12
+var week = 7;
+var month = 12;
+
+
+var year = cpu * week * month
