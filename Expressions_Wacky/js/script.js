@@ -7,8 +7,9 @@
 var cpu = 10; // the amount of time spent on the computer per day.
 var week = 7; // days in a week.
 var month = 12; // days in a year.
-
+var text = "amount of hours spent on the computer every year"
 
 cpu *= 7 * 12 // multipled each number to get the amount of hours spent on the computer a year. 
 
+var answer = String(cpu) + " " + String(text)
 console.log(cpu) // the answer to the equation is written here. 
