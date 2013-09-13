@@ -11,4 +11,4 @@ var month = 12;
 
 cpu *= 7 * 12
 
-console.log(year)
+console.log(cpu)
