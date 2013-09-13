@@ -4,11 +4,11 @@
 
 //Given 
 
-var cpu = 10;
-var week = 7;
-var month = 12;
+var cpu = 10; // the amount of time spent on the computer per day.
+var week = 7; // days in a week.
+var month = 12; // days in a year.
 
 
-cpu *= 7 * 12
+cpu *= 7 * 12 // multipled each number to get the amount of hours spent on the computer a year. 
 
-console.log(cpu)
+console.log(cpu) // the answer to the equation is written here. 
