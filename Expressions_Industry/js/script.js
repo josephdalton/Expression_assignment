@@ -6,5 +6,5 @@ var minutes = [20,60, 8,] // first number is the average handle time of each cal
 
 var total = (minutes[0] / minutes[1]) * minutes[2]; //this expression is the amount of minutes in an hour are divided by 20 to find out how many calls an hour. That total is multiplied by 8 for the amount of hours in a shift.  
 
-console.log(total);
+console.log(total); //the total of the express is listed here in the log 
 
