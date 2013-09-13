@@ -1,5 +1,5 @@
 //Cherrell Stroud 9/14/2013 Personal Expression
-//How much laundry detergent is left after washing a weeks worth of clothes?
+//How much laundry detergent is left in the container after washing clothes for a week?
 
 //Givens listed below:
 
